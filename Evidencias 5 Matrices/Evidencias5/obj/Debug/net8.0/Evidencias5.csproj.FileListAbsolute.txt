@@ -1,0 +1,14 @@
+C:\Users\FertecoPC\Desktop\Evidencias5\Evidencias5\obj\Debug\net8.0\Evidencias5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FertecoPC\Desktop\Evidencias5\Evidencias5\obj\Debug\net8.0\Evidencias5.AssemblyInfoInputs.cache
+C:\Users\FertecoPC\Desktop\Evidencias5\Evidencias5\obj\Debug\net8.0\Evidencias5.AssemblyInfo.cs
+C:\Users\FertecoPC\Desktop\Evidencias5\Evidencias5\obj\Debug\net8.0\Evidencias5.csproj.CoreCompileInputs.cache
+C:\Users\FertecoPC\Desktop\Evidencias5\Evidencias5\bin\Debug\net8.0\Evidencias5.exe
+C:\Users\FertecoPC\Desktop\Evidencias5\Evidencias5\bin\Debug\net8.0\Evidencias5.deps.json
+C:\Users\FertecoPC\Desktop\Evidencias5\Evidencias5\bin\Debug\net8.0\Evidencias5.runtimeconfig.json
+C:\Users\FertecoPC\Desktop\Evidencias5\Evidencias5\bin\Debug\net8.0\Evidencias5.dll
+C:\Users\FertecoPC\Desktop\Evidencias5\Evidencias5\bin\Debug\net8.0\Evidencias5.pdb
+C:\Users\FertecoPC\Desktop\Evidencias5\Evidencias5\obj\Debug\net8.0\Evidencias5.dll
+C:\Users\FertecoPC\Desktop\Evidencias5\Evidencias5\obj\Debug\net8.0\refint\Evidencias5.dll
+C:\Users\FertecoPC\Desktop\Evidencias5\Evidencias5\obj\Debug\net8.0\Evidencias5.pdb
+C:\Users\FertecoPC\Desktop\Evidencias5\Evidencias5\obj\Debug\net8.0\Evidencias5.genruntimeconfig.cache
+C:\Users\FertecoPC\Desktop\Evidencias5\Evidencias5\obj\Debug\net8.0\ref\Evidencias5.dll
