@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Evidencias 6 Definir y llamar Metodos/1.0.0": {
+        "runtime": {
+          "Evidencias 6 Definir y llamar Metodos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evidencias 6 Definir y llamar Metodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

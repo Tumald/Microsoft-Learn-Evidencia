@@ -1,0 +1,14 @@
+C:\Users\FertecoPC\source\repos\Evidencias 6 Definir y llamar Metodos\Evidencias 6 Definir y llamar Metodos\bin\Debug\net8.0\Evidencias 6 Definir y llamar Metodos.exe
+C:\Users\FertecoPC\source\repos\Evidencias 6 Definir y llamar Metodos\Evidencias 6 Definir y llamar Metodos\bin\Debug\net8.0\Evidencias 6 Definir y llamar Metodos.deps.json
+C:\Users\FertecoPC\source\repos\Evidencias 6 Definir y llamar Metodos\Evidencias 6 Definir y llamar Metodos\bin\Debug\net8.0\Evidencias 6 Definir y llamar Metodos.runtimeconfig.json
+C:\Users\FertecoPC\source\repos\Evidencias 6 Definir y llamar Metodos\Evidencias 6 Definir y llamar Metodos\bin\Debug\net8.0\Evidencias 6 Definir y llamar Metodos.dll
+C:\Users\FertecoPC\source\repos\Evidencias 6 Definir y llamar Metodos\Evidencias 6 Definir y llamar Metodos\bin\Debug\net8.0\Evidencias 6 Definir y llamar Metodos.pdb
+C:\Users\FertecoPC\source\repos\Evidencias 6 Definir y llamar Metodos\Evidencias 6 Definir y llamar Metodos\obj\Debug\net8.0\Evidencias 6 Definir y llamar Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FertecoPC\source\repos\Evidencias 6 Definir y llamar Metodos\Evidencias 6 Definir y llamar Metodos\obj\Debug\net8.0\Evidencias 6 Definir y llamar Metodos.AssemblyInfoInputs.cache
+C:\Users\FertecoPC\source\repos\Evidencias 6 Definir y llamar Metodos\Evidencias 6 Definir y llamar Metodos\obj\Debug\net8.0\Evidencias 6 Definir y llamar Metodos.AssemblyInfo.cs
+C:\Users\FertecoPC\source\repos\Evidencias 6 Definir y llamar Metodos\Evidencias 6 Definir y llamar Metodos\obj\Debug\net8.0\Evidencias 6 Definir y llamar Metodos.csproj.CoreCompileInputs.cache
+C:\Users\FertecoPC\source\repos\Evidencias 6 Definir y llamar Metodos\Evidencias 6 Definir y llamar Metodos\obj\Debug\net8.0\Evidencias 6 Definir y llamar Metodos.dll
+C:\Users\FertecoPC\source\repos\Evidencias 6 Definir y llamar Metodos\Evidencias 6 Definir y llamar Metodos\obj\Debug\net8.0\refint\Evidencias 6 Definir y llamar Metodos.dll
+C:\Users\FertecoPC\source\repos\Evidencias 6 Definir y llamar Metodos\Evidencias 6 Definir y llamar Metodos\obj\Debug\net8.0\Evidencias 6 Definir y llamar Metodos.pdb
+C:\Users\FertecoPC\source\repos\Evidencias 6 Definir y llamar Metodos\Evidencias 6 Definir y llamar Metodos\obj\Debug\net8.0\Evidencias 6 Definir y llamar Metodos.genruntimeconfig.cache
+C:\Users\FertecoPC\source\repos\Evidencias 6 Definir y llamar Metodos\Evidencias 6 Definir y llamar Metodos\obj\Debug\net8.0\ref\Evidencias 6 Definir y llamar Metodos.dll
