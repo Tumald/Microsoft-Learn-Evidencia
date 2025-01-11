@@ -1,0 +1,14 @@
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 7 While Iteracion\Evidencias 7 While Iteracion\bin\Debug\net8.0\Evidencias 7 While Iteracion.exe
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 7 While Iteracion\Evidencias 7 While Iteracion\bin\Debug\net8.0\Evidencias 7 While Iteracion.deps.json
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 7 While Iteracion\Evidencias 7 While Iteracion\bin\Debug\net8.0\Evidencias 7 While Iteracion.runtimeconfig.json
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 7 While Iteracion\Evidencias 7 While Iteracion\bin\Debug\net8.0\Evidencias 7 While Iteracion.dll
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 7 While Iteracion\Evidencias 7 While Iteracion\bin\Debug\net8.0\Evidencias 7 While Iteracion.pdb
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 7 While Iteracion\Evidencias 7 While Iteracion\obj\Debug\net8.0\Evidencias 7 While Iteracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 7 While Iteracion\Evidencias 7 While Iteracion\obj\Debug\net8.0\Evidencias 7 While Iteracion.AssemblyInfoInputs.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 7 While Iteracion\Evidencias 7 While Iteracion\obj\Debug\net8.0\Evidencias 7 While Iteracion.AssemblyInfo.cs
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 7 While Iteracion\Evidencias 7 While Iteracion\obj\Debug\net8.0\Evidencias 7 While Iteracion.csproj.CoreCompileInputs.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 7 While Iteracion\Evidencias 7 While Iteracion\obj\Debug\net8.0\Evidencias 7 While Iteracion.dll
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 7 While Iteracion\Evidencias 7 While Iteracion\obj\Debug\net8.0\refint\Evidencias 7 While Iteracion.dll
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 7 While Iteracion\Evidencias 7 While Iteracion\obj\Debug\net8.0\Evidencias 7 While Iteracion.pdb
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 7 While Iteracion\Evidencias 7 While Iteracion\obj\Debug\net8.0\Evidencias 7 While Iteracion.genruntimeconfig.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 7 While Iteracion\Evidencias 7 While Iteracion\obj\Debug\net8.0\ref\Evidencias 7 While Iteracion.dll
