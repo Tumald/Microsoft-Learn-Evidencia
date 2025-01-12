@@ -1,0 +1,14 @@
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 8 String Fecha y Hora\Evidencias 8 String Fecha y Hora\obj\Debug\net8.0\Evidencias 8 String Fecha y Hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 8 String Fecha y Hora\Evidencias 8 String Fecha y Hora\obj\Debug\net8.0\Evidencias 8 String Fecha y Hora.AssemblyInfoInputs.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 8 String Fecha y Hora\Evidencias 8 String Fecha y Hora\obj\Debug\net8.0\Evidencias 8 String Fecha y Hora.AssemblyInfo.cs
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 8 String Fecha y Hora\Evidencias 8 String Fecha y Hora\obj\Debug\net8.0\Evidencias 8 String Fecha y Hora.csproj.CoreCompileInputs.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 8 String Fecha y Hora\Evidencias 8 String Fecha y Hora\bin\Debug\net8.0\Evidencias 8 String Fecha y Hora.exe
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 8 String Fecha y Hora\Evidencias 8 String Fecha y Hora\bin\Debug\net8.0\Evidencias 8 String Fecha y Hora.deps.json
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 8 String Fecha y Hora\Evidencias 8 String Fecha y Hora\bin\Debug\net8.0\Evidencias 8 String Fecha y Hora.runtimeconfig.json
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 8 String Fecha y Hora\Evidencias 8 String Fecha y Hora\bin\Debug\net8.0\Evidencias 8 String Fecha y Hora.dll
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 8 String Fecha y Hora\Evidencias 8 String Fecha y Hora\bin\Debug\net8.0\Evidencias 8 String Fecha y Hora.pdb
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 8 String Fecha y Hora\Evidencias 8 String Fecha y Hora\obj\Debug\net8.0\Evidencias 8 String Fecha y Hora.dll
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 8 String Fecha y Hora\Evidencias 8 String Fecha y Hora\obj\Debug\net8.0\refint\Evidencias 8 String Fecha y Hora.dll
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 8 String Fecha y Hora\Evidencias 8 String Fecha y Hora\obj\Debug\net8.0\Evidencias 8 String Fecha y Hora.pdb
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 8 String Fecha y Hora\Evidencias 8 String Fecha y Hora\obj\Debug\net8.0\Evidencias 8 String Fecha y Hora.genruntimeconfig.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 8 String Fecha y Hora\Evidencias 8 String Fecha y Hora\obj\Debug\net8.0\ref\Evidencias 8 String Fecha y Hora.dll
