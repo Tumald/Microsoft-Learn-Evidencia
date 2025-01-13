@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Evidencias 10 Descripcion de Clases/1.0.0": {
+        "runtime": {
+          "Evidencias 10 Descripcion de Clases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evidencias 10 Descripcion de Clases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

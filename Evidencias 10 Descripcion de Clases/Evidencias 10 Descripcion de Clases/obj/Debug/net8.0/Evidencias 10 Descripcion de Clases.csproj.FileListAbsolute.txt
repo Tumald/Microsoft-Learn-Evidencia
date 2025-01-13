@@ -1,0 +1,14 @@
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 10 Descripcion de Clases\Evidencias 10 Descripcion de Clases\bin\Debug\net8.0\Evidencias 10 Descripcion de Clases.exe
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 10 Descripcion de Clases\Evidencias 10 Descripcion de Clases\bin\Debug\net8.0\Evidencias 10 Descripcion de Clases.deps.json
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 10 Descripcion de Clases\Evidencias 10 Descripcion de Clases\bin\Debug\net8.0\Evidencias 10 Descripcion de Clases.runtimeconfig.json
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 10 Descripcion de Clases\Evidencias 10 Descripcion de Clases\bin\Debug\net8.0\Evidencias 10 Descripcion de Clases.dll
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 10 Descripcion de Clases\Evidencias 10 Descripcion de Clases\bin\Debug\net8.0\Evidencias 10 Descripcion de Clases.pdb
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 10 Descripcion de Clases\Evidencias 10 Descripcion de Clases\obj\Debug\net8.0\Evidencias 10 Descripcion de Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 10 Descripcion de Clases\Evidencias 10 Descripcion de Clases\obj\Debug\net8.0\Evidencias 10 Descripcion de Clases.AssemblyInfoInputs.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 10 Descripcion de Clases\Evidencias 10 Descripcion de Clases\obj\Debug\net8.0\Evidencias 10 Descripcion de Clases.AssemblyInfo.cs
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 10 Descripcion de Clases\Evidencias 10 Descripcion de Clases\obj\Debug\net8.0\Evidencias 10 Descripcion de Clases.csproj.CoreCompileInputs.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 10 Descripcion de Clases\Evidencias 10 Descripcion de Clases\obj\Debug\net8.0\Evidencias 10 Descripcion de Clases.dll
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 10 Descripcion de Clases\Evidencias 10 Descripcion de Clases\obj\Debug\net8.0\refint\Evidencias 10 Descripcion de Clases.dll
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 10 Descripcion de Clases\Evidencias 10 Descripcion de Clases\obj\Debug\net8.0\Evidencias 10 Descripcion de Clases.pdb
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 10 Descripcion de Clases\Evidencias 10 Descripcion de Clases\obj\Debug\net8.0\Evidencias 10 Descripcion de Clases.genruntimeconfig.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 10 Descripcion de Clases\Evidencias 10 Descripcion de Clases\obj\Debug\net8.0\ref\Evidencias 10 Descripcion de Clases.dll
