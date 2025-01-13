@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Evidenciaas 12 Clases y Metodos/1.0.0": {
+        "runtime": {
+          "Evidenciaas 12 Clases y Metodos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evidenciaas 12 Clases y Metodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

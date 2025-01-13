@@ -1,0 +1,14 @@
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidenciaas 12 Clases y Metodos\Evidenciaas 12 Clases y Metodos\bin\Debug\net8.0\Evidenciaas 12 Clases y Metodos.exe
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidenciaas 12 Clases y Metodos\Evidenciaas 12 Clases y Metodos\bin\Debug\net8.0\Evidenciaas 12 Clases y Metodos.deps.json
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidenciaas 12 Clases y Metodos\Evidenciaas 12 Clases y Metodos\bin\Debug\net8.0\Evidenciaas 12 Clases y Metodos.runtimeconfig.json
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidenciaas 12 Clases y Metodos\Evidenciaas 12 Clases y Metodos\bin\Debug\net8.0\Evidenciaas 12 Clases y Metodos.dll
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidenciaas 12 Clases y Metodos\Evidenciaas 12 Clases y Metodos\bin\Debug\net8.0\Evidenciaas 12 Clases y Metodos.pdb
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidenciaas 12 Clases y Metodos\Evidenciaas 12 Clases y Metodos\obj\Debug\net8.0\Evidenciaas 12 Clases y Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidenciaas 12 Clases y Metodos\Evidenciaas 12 Clases y Metodos\obj\Debug\net8.0\Evidenciaas 12 Clases y Metodos.AssemblyInfoInputs.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidenciaas 12 Clases y Metodos\Evidenciaas 12 Clases y Metodos\obj\Debug\net8.0\Evidenciaas 12 Clases y Metodos.AssemblyInfo.cs
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidenciaas 12 Clases y Metodos\Evidenciaas 12 Clases y Metodos\obj\Debug\net8.0\Evidenciaas 12 Clases y Metodos.csproj.CoreCompileInputs.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidenciaas 12 Clases y Metodos\Evidenciaas 12 Clases y Metodos\obj\Debug\net8.0\Evidenciaas 12 Clases y Metodos.dll
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidenciaas 12 Clases y Metodos\Evidenciaas 12 Clases y Metodos\obj\Debug\net8.0\refint\Evidenciaas 12 Clases y Metodos.dll
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidenciaas 12 Clases y Metodos\Evidenciaas 12 Clases y Metodos\obj\Debug\net8.0\Evidenciaas 12 Clases y Metodos.pdb
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidenciaas 12 Clases y Metodos\Evidenciaas 12 Clases y Metodos\obj\Debug\net8.0\Evidenciaas 12 Clases y Metodos.genruntimeconfig.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidenciaas 12 Clases y Metodos\Evidenciaas 12 Clases y Metodos\obj\Debug\net8.0\ref\Evidenciaas 12 Clases y Metodos.dll
