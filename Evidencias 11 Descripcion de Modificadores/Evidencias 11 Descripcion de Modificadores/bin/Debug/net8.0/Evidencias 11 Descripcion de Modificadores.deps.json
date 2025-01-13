@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Evidencias 11 Descripcion de Modificadores/1.0.0": {
+        "runtime": {
+          "Evidencias 11 Descripcion de Modificadores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evidencias 11 Descripcion de Modificadores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

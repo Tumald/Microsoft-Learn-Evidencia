@@ -1,0 +1,14 @@
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 11 Descripcion de Modificadores\Evidencias 11 Descripcion de Modificadores\obj\Debug\net8.0\Evidencias 11 Descripcion de Modificadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 11 Descripcion de Modificadores\Evidencias 11 Descripcion de Modificadores\obj\Debug\net8.0\Evidencias 11 Descripcion de Modificadores.AssemblyInfoInputs.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 11 Descripcion de Modificadores\Evidencias 11 Descripcion de Modificadores\obj\Debug\net8.0\Evidencias 11 Descripcion de Modificadores.AssemblyInfo.cs
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 11 Descripcion de Modificadores\Evidencias 11 Descripcion de Modificadores\obj\Debug\net8.0\Evidencias 11 Descripcion de Modificadores.csproj.CoreCompileInputs.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 11 Descripcion de Modificadores\Evidencias 11 Descripcion de Modificadores\bin\Debug\net8.0\Evidencias 11 Descripcion de Modificadores.exe
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 11 Descripcion de Modificadores\Evidencias 11 Descripcion de Modificadores\bin\Debug\net8.0\Evidencias 11 Descripcion de Modificadores.deps.json
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 11 Descripcion de Modificadores\Evidencias 11 Descripcion de Modificadores\bin\Debug\net8.0\Evidencias 11 Descripcion de Modificadores.runtimeconfig.json
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 11 Descripcion de Modificadores\Evidencias 11 Descripcion de Modificadores\bin\Debug\net8.0\Evidencias 11 Descripcion de Modificadores.dll
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 11 Descripcion de Modificadores\Evidencias 11 Descripcion de Modificadores\bin\Debug\net8.0\Evidencias 11 Descripcion de Modificadores.pdb
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 11 Descripcion de Modificadores\Evidencias 11 Descripcion de Modificadores\obj\Debug\net8.0\Evidencias 11 Descripcion de Modificadores.dll
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 11 Descripcion de Modificadores\Evidencias 11 Descripcion de Modificadores\obj\Debug\net8.0\refint\Evidencias 11 Descripcion de Modificadores.dll
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 11 Descripcion de Modificadores\Evidencias 11 Descripcion de Modificadores\obj\Debug\net8.0\Evidencias 11 Descripcion de Modificadores.pdb
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 11 Descripcion de Modificadores\Evidencias 11 Descripcion de Modificadores\obj\Debug\net8.0\Evidencias 11 Descripcion de Modificadores.genruntimeconfig.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 11 Descripcion de Modificadores\Evidencias 11 Descripcion de Modificadores\obj\Debug\net8.0\ref\Evidencias 11 Descripcion de Modificadores.dll
