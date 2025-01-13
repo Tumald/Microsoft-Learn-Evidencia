@@ -1,0 +1,4 @@
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 13 Crear Referencias\Evidencias 13 Crear Referencias\obj\Release\net8.0\Evidencias 13 Crear Referencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 13 Crear Referencias\Evidencias 13 Crear Referencias\obj\Release\net8.0\Evidencias 13 Crear Referencias.AssemblyInfoInputs.cache
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 13 Crear Referencias\Evidencias 13 Crear Referencias\obj\Release\net8.0\Evidencias 13 Crear Referencias.AssemblyInfo.cs
+C:\Users\FertecoPC\Desktop\Evidencias Desarrollo\Evidencias 13 Crear Referencias\Evidencias 13 Crear Referencias\obj\Release\net8.0\Evidencias 13 Crear Referencias.csproj.CoreCompileInputs.cache
